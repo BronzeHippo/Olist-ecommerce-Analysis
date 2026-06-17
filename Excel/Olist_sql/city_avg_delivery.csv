@@ -1,0 +1,11 @@
+customer_state,"count(distinct order_id)",avg_delivery_date,longest_delivery_dste
+RR,41,29.3,172
+AP,67,27.2,187
+AM,145,26.4,139
+AL,397,24.5,91
+PA,946,23.7,196
+MA,717,21.5,168
+SE,335,21.5,195
+CE,1279,21.2,168
+AC,80,21.0,72
+PB,517,20.4,102
